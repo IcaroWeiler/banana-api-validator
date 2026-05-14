@@ -1,0 +1,6 @@
+@banana_api_validator_HostAddress = http://localhost:5202
+
+GET {{banana_api_validator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
